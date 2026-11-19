@@ -154,3 +154,17 @@
 ## Android 界面开发约定
 
 新增或调整平板页面前阅读 [Android 横屏 ERP 界面规范](docs/tablet-ui.md)。复用共享筛选面板、字段、日期与表格组件，按文档中的横屏尺寸和状态检查布局与交互。库存管理是第一张参考页面。
+
+## Agent skills
+
+### Issue tracker
+
+需求规格与任务使用本仓库的 GitHub Issues，见[工单约定](docs/agents/issue-tracker.md)。
+
+### Triage labels
+
+工单使用五个默认分流标签，见[标签映射](docs/agents/triage-labels.md)。
+
+### Domain docs
+
+本仓库使用一份领域术语表和一个架构决策目录，见[领域文档约定](docs/agents/domain.md)。
